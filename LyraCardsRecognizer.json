@@ -1,3 +1,5 @@
+
 {
-"1.0.0": "https://raw.githubusercontent.com/lyra/ios-cards-camera-recognizer/1.0.0/LyraCardsRecognizer.framework.zip"
+"1.0.0": "https://raw.githubusercontent.com/lyra/ios-cards-camera-recognizer/1.0.0/LyraCardsRecognizer.framework.zip",
+"2.0.0": "https://raw.githubusercontent.com/lyra/ios-cards-camera-recognizer/2.0.0/LyraCardsRecognizer.xcframework.zip"
 }
